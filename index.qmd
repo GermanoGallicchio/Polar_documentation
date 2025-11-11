@@ -1,12 +1,12 @@
-# _Polar_ for MATLAB
+# Documentation of _Polar_ for MATLAB
 A circular statistics toolbox for computing polar metrics. It includes functions for calculating angular and radial metrics.
 
 Reference: <br>
 Gallicchio, G. (2025). Polar. GitHub. https://github.com/GermanoGallicchio/Polar/
 
 documentation 
-...work in progress...
+...work in progress... will be here
 
 tutorials
-...work in progress...
+...work in progress... will be here
 
