@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: ./docs/
+
+website:
+  title: "Polar documentation"
+  navbar:
+    title: false
+    background: primary
+    search: true
+    left:
+      - text: home
+        href: index.html
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
