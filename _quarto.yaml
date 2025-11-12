@@ -9,7 +9,11 @@ website:
     background: primary
     search: true
     left:
-      - text: home
+      - text: Home
+        href: https://germanogallicchio.github.io/index.html
+      - text: Software
+        href: https://germanogallicchio.github.io/software.html
+      - text: Polar docs
         href: index.html
 
 format:
